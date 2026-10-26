@@ -11,7 +11,7 @@ Eriku929/Eriku929 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Im Yui whose studying data science in ASU. Nice to meet you!</h1>
+<h1>Im Yui, studying data science at ASU. Nice to meet you!</h1>
 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
