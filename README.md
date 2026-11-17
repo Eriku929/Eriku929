@@ -17,3 +17,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=Erilu929&row=1&colum=7&theme=matrix" width="100%" />
 
+<div style="display: flex; padding: 0; margin: 0; justify-content: center; flex-direction: row;">
+<img src="https://github-readme-stats.vercel.app/api?username=Eriku929&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" style="width: 55%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eriku929&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="width: 43%;" />
+</div>
