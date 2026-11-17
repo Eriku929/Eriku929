@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Yui
+<h1>
+  👋 Hi, I’m Yui
+</h1>
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
