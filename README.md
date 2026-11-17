@@ -13,11 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Im Yui, studying data science at ASU. Nice to meet you!</h1>
 
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Erilu929&row=1&colum=7&theme=matrix" width="100%" />
-
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariosan&theme=chartreuse-dark" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eriku929&theme=chartreuse-dark" width="100%" />
 </a>
